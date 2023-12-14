@@ -8,13 +8,13 @@ This Python script is used to crawl and extract image data from the National Dev
 - BeautifulSoup library: `pip install beautifulsoup4`
 ## Usage
 
-1. Clone the repository:
+1. Clone the repository:git clone https://github.com/your-username/fuel-price-crawler.git
 
-2. Install the required libraries:
+2. Install the required libraries:pip install -r requirements.txt
 
 3. Update the `root` variable in the script to specify the path where you want to save the downloaded images.
 
-4. Run the script:
+4. Run the script:python fuel_price_crawler.py
 
 5. The script will print the URLs of each page (1 to 10) that it scrapes, along with the URLs of the fuel price adjustment information and image data.
 
