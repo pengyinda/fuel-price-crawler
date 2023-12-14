@@ -20,7 +20,7 @@ for link in links:
     else:
         ur = ur[2:]
         page_urls.append(ur)  # 将URL添加到列表中
-'''
+
 #处理2~10页
 for page in range(1, 10):
     url = f"{base_url}index_{page}.html"
@@ -36,7 +36,7 @@ for page in range(1, 10):
         else:
             ur = ur[2:]
             page_urls.append(ur)  # 将URL添加到列表中
-'''
+
 
 image_urls = []
 for i in page_urls:
