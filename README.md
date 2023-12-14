@@ -1,6 +1,6 @@
 # Fuel Price Crawler
 
-This Python script is used to crawl and extract image data from the National Development and Reform Commission (NDRC) website, specifically from the fuel price adjustment information page.
+This Python script is used to crawl and extract image data from the National Development and Reform Commission (NDRC) website https://www.ndrc.gov.cn/xwdt/ztzl/gncpyjg/, specifically from the fuel price adjustment information page.
 ## Prerequisites
 
 - Python 3.x
